@@ -6,6 +6,7 @@
 * GSViT can run under X86 and ARM architectures.\
 * Two demos were tested x
 * MacOS(M1/M2) will report some errors.
+#
 ├── Readme. md\
 ├── Environment: Python 3.9 and PyTorch 2.0 + cuDNN 11.8\
 ├── Demo\
